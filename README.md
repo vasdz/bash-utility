@@ -28,10 +28,10 @@
 
 ## Установка
 
-1. Склонируйте репозиторий:
+1. Склонируйте репозиторий: https://github.com/vasdz/bash-utility.git
    ```bash
-   git clone https://github.com/<ваш_аккаунт>/<имя_репозитория>.git
-   cd <имя_репозитория>
+   git clone https://github.com/vasdz/bash-utility.git
+   cd bash-utility.git
 Сделайте файл исполняемым:
 chmod +x utility.sh
 
